@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+source 'https://github.com/FinweLtd/PodSpecs_Prd.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, "7.0"
+workspace 'ExampleMinimalPlayer'
+
+target "ExampleMinimalPlayer" do
+    # Third party libs
+    pod 'OrionSDK'
+end
+
