@@ -36,7 +36,7 @@ How to try example applications
    e.g. by creating a Hello World type test application from Xcode.
 2. Open Terminal application, and navigate to the folder where example
    application’s Podfile exists and type “pod install”.
-3. Open cxworkspace file that was created while the pods were installed
+3. Open xcworkspace file that was created while the pods were installed
    (open Finder application and double click the file).
 4. Build the example application.
 5. Run on test device.
