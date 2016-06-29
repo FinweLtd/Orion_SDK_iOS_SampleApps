@@ -14,9 +14,6 @@ binary or source code format is forbidden.
 Customers can freely use code from example applications in their own 
 licensed applications.
 
-Also see the end-user license agreement document (EULA) that is included
-in the SDK package.
-
 For licensing enquiries, contact sales@finwe.fi
 
 Documentation
