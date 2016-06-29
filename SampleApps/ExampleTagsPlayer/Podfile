@@ -3,7 +3,7 @@ source 'https://github.com/FinweLtd/PodSpecs_Prd.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 platform :ios, "7.0"
-workspace 'ExampleTagslayer'
+workspace 'ExampleTagsPlayer'
 
 target "ExampleTagsPlayer" do
     # Third party libs
