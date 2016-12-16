@@ -16,6 +16,8 @@ licensed applications.
 
 For licensing enquiries, contact sales@finwe.fi
 
+> Before using the SDK, read [Licence Agreement](https://github.com/FinweLtd/Orion_SDK_iOS_SampleApps/blob/master/Finwe_Orion360_SDK_Basic_Evaluation_Kit_License_en_US-20161212_1500.pdf)
+
 Documentation
 -------------
 
