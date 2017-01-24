@@ -3,9 +3,7 @@
 License
 -------
 
-Without a bought license (created specifically for your application package)
-the SDK runs in "evaluation version" mode. In this mode only example 
-applications can be built.
+Orion360 SDK is a commercial product and requires a license file to work. An evaluation license is provided with the sample app. You can get a watermarked evaluation license file also for your own package name by creating an account to https://store.make360app.com, starting a new SDK project, providing your own package name, and selecting FREE Trial.
 
 Modifying example applications is allowed for practising and testing the
 SDK, but publishing or redistributing example applications either in
@@ -13,8 +11,6 @@ binary or source code format is forbidden.
 
 Customers can freely use code from example applications in their own 
 licensed applications.
-
-For licensing enquiries, contact sales@finwe.fi
 
 > Before using the SDK, read [Licence Agreement](https://github.com/FinweLtd/Orion_SDK_iOS_SampleApps/blob/master/Finwe_Orion360_SDK_Basic_Evaluation_Kit_License_en_US-20161212_1500.pdf)
 
